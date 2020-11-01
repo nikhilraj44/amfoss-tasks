@@ -12,7 +12,7 @@ I had a great intersest to join amFoss. I am a BCA graduate form Amrita itself.D
   
 * Do you have any feedback for the selection process?
  
- I dont have any suggestions to  the selection process.I am completely fine with ths.
+  I dont have any suggestions to  the selection process.I am completely fine with ths.
  
  
   
