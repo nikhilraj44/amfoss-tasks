@@ -1,3 +1,3 @@
 # Facing issues while installing Linux......? :sweat:
    
-   The solution is here :point_right: https://dev.to/nikhilraj44/installing-linux-368b
+   The solution is here :point_right: https://dev.to/nikhilraj44/installing-linux-368b :point_left:
