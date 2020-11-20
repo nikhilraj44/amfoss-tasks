@@ -1,4 +1,6 @@
-* Why must we choose you?
+#Introspection
+
+* ##Why must we choose you?
 
   I had a great intersest to join amFoss. I am a BCA graduate form Amrita itself.During those days I couldnt join in amFoss because didnt actually liked these    coding stuff or didnt take these all seriously. I realized the importance of these clubs only after I completed my graduation.When I started doing coding seriously, I started to love coding.Now I am trying to study many things as much as I can.Im sure that I could learn great things from this club(both technical and non technical).
     
