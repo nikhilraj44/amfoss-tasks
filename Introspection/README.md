@@ -5,7 +5,7 @@
     
  ## What is your plan for the next 6 months?
  
-  As a begineer I had a long way to go,I have to learn more and also need to find a perfect path to start my career.
+  As a begineer I had a long way to go,I have to learn more and also need to find a perfect path to build my career.
   
  ## How do contribute back to the club?
  
