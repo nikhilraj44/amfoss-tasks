@@ -21,8 +21,8 @@
 | <a href="https://github.com/nikhilraj44/amfoss-tasks/tree/main/task-8"> task-8 </a> | Incomplete |
 | <a href="https://github.com/nikhilraj44/amfoss-tasks/tree/main/task-12"> task-12 </a> | Incomplete |
 | | |
-| <a href="https://github.com/nikhilraj44/amfoss-tasks/tree/main/task-11"> task-11 </a> | Skipped |
-| <a href="https://github.com/nikhilraj44/amfoss-tasks/tree/main/task-13"> task-13 </a> | Skipped |
+| <a href="https://github.com/nikhilraj44/amfoss-tasks/tree/main/task-11"> task-11 </a> |    Skipped |
+| <a href="https://github.com/nikhilraj44/amfoss-tasks/tree/main/task-13"> task-13 </a> |    Skipped |
 
 
 
