@@ -1,1 +1,1 @@
-Completed this task by following the steps in the given repo
+Completed this task by following the steps in the repo provided.
