@@ -9,7 +9,7 @@
   
  ## How do contribute back to the club?
  
- I'm looking forward to share my expertise and idea that will benefit to the acheivement of the club and also try to be more active person in taking tasks.
+ I'm looking forward to share my expertise and idea that will benefit to the acheivement of the club and also try to be more active in taking tasks.
  
 ## Do you have any feedback for the selection process?
  
