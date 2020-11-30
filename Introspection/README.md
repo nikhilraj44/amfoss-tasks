@@ -1,7 +1,7 @@
 # Introspection
 
  ## Why must we choose you?
-  I love coding. As a begineer I believe that I had good approch to problem solving and also I am very supportive in team work. I found this opportunity to be more encouraging and looking forward to gain knowledge through new experience and learning.
+  I love coding. As a begineer I believe that I had good approch to problem solving and also very supportive in team work. I found this opportunity to be more encouraging and looking forward to gain knowledge through new experience and learning.
   
  ## What is your plan for the next 6 months?
  
